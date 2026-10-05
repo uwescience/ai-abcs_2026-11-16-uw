@@ -16,7 +16,7 @@
 # character. For example, for the repo located at
 # https://github.com/uwescience/ai-abcs_2025-10-27, this would be:
 # baseurl: /ai-abcs_2025-10-27
-baseurl: FIX ME
+baseurl: "/ai-abcs_2026-11-16-uw"
 
 # The course contact email.
 # This is currently only listed on the code-of-conduct page as one of the ways
@@ -25,21 +25,21 @@ baseurl: FIX ME
 # you need to manually change the code-of-conduct.md page to reflect your
 # code of conduct and reporting mechanisms.
 contact:
-  name: FIX ME
-  email: FIX ME
+  name: Mark Welden-Smith
+  email: mweldens@uw.edu
 
 # The dates of the course in plain language.
 # For example, the pilot AI ABC's program used this datestring:
 # datestring: Oct. 27&ndash;30 (Mon.&ndash;Thu.), 2025
-datesstring: FIX ME
+datesstring: November 16th&ndash;19th (Mon.&ndash;Thu.), 2026
 
 # The verbose start date of the course in plain language.
 # For example, Monday October 27th.
-firstdate: FIX ME
+firstdate: Monday November 16th
   
 # The verbose last date of the course in plain language.
 # For example, Thursday October 30th.
-lastdate: FIX ME
+lastdate: Thursday November 19th
 
 # The attendance modality the course is using.
 # This can be any of the following:
@@ -75,12 +75,17 @@ helpers:
 # This should be a list of administrators just like the instructors and helpers
 # lists. If empty, it won't be included.
 admin:
+  - name: Mark Welden-Smith
+    div: eScience Institute
+    org: University of Washington
+    email: mweldens@uw.edu
+    github: markweldensmith
 
 # Registration information
 # The cost of the event and the link to a site where they can register.
 registration:
   cost: $10.00
-  link: FIX ME
+  link: https://forms.gle/EL6s1rkbfjC6Y69n7
 
   
 # Sometimes Edit --------------------------------------------------------------
